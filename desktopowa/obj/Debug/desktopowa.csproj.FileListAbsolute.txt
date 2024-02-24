@@ -1,0 +1,13 @@
+E:\Aplikacje desktopowe\7\desktopowa\bin\Debug\desktopowa.exe.config
+E:\Aplikacje desktopowe\7\desktopowa\bin\Debug\desktopowa.exe
+E:\Aplikacje desktopowe\7\desktopowa\bin\Debug\desktopowa.pdb
+E:\Aplikacje desktopowe\7\desktopowa\obj\Debug\desktopowa.csproj.AssemblyReference.cache
+E:\Aplikacje desktopowe\7\desktopowa\obj\Debug\desktopowa.Form1.resources
+E:\Aplikacje desktopowe\7\desktopowa\obj\Debug\desktopowa.Properties.Resources.resources
+E:\Aplikacje desktopowe\7\desktopowa\obj\Debug\desktopowa.csproj.GenerateResource.cache
+E:\Aplikacje desktopowe\7\desktopowa\obj\Debug\desktopowa.csproj.CoreCompileInputs.cache
+E:\Aplikacje desktopowe\7\desktopowa\obj\Debug\desktopowa.exe
+E:\Aplikacje desktopowe\7\desktopowa\obj\Debug\desktopowa.pdb
+E:\Aplikacje desktopowe\7\desktopowa\obj\Debug\desktopowa.Form2.resources
+E:\Aplikacje desktopowe\7\desktopowa\obj\Debug\desktopowa.Form3.resources
+E:\Aplikacje desktopowe\7\desktopowa\obj\Debug\desktopowa.Form4.resources
